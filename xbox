@@ -1,0 +1,24 @@
+🎮 Xbox Game Pass Subscription Sales Dashboard
+Este dashboard foi desenvolvido com o objetivo de apresentar, de forma clara e visual, os dados de vendas de assinaturas do Xbox Game Pass, segmentadas por tipo de serviço e período.
+
+🔍 Visão Geral
+A interface permite acompanhar o desempenho de vendas por tipo de assinatura (EA Play e Minecraft Season Pass), exibindo o total de receitas arrecadadas no período de 01/01/2024 a 31/12/2024, com atualização realizada em 25/12/2024 às 09:00.
+
+📊 Funcionalidades
+Filtros interativos por tipo de assinatura: Anual, Mensal e Trimestral.
+
+Cards de destaque com o valor total de assinaturas por serviço.
+
+Visual moderno com ícones, imagens e layout responsivo.
+
+Design limpo e de fácil leitura, ideal para apresentações executivas ou relatórios gerenciais.
+
+🧰 Tecnologias utilizadas
+Microsoft Excel (Power Query / Fórmulas / Design Responsivo)
+
+Recursos visuais personalizados (Ícones, imagens e paleta de cores condizente com o tema Xbox)
+
+Possível integração futura com macros (botão de filtro dinâmico e navegação)
+
+👤 Usuário de exemplo
+"Bem-vinda, Liana" — interface personalizada com saudação ao usuário.
